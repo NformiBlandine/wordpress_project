@@ -25,14 +25,14 @@ This project uses **Docker** and **Docker Compose** to provision a LEMP stack (L
 ## 2. 🚀 Deployment Guide
 
 ### 2.1. ✅ Requirements
-
+```
 | Component | Minimum Requirement |
 |----------|---------------------|
 | OS | Linux VM (Ubuntu recommended) |
 | Software | Docker, Docker Compose |
 | Network | Port 80 or 8080 open |
 | Hardware | 2 CPU cores, 4 GB RAM |
-
+```
 ---
 
 ### 2.2. 📁 Folder Structure
