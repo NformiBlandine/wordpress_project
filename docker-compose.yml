@@ -51,7 +51,10 @@ services:
 
 volumes:
   dbdata:
+    external: true
   wordpress:
+    external: true
+    
   
 
 networks:
