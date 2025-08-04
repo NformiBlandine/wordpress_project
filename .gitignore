@@ -1,3 +1,5 @@
 .env
 backups
 .dockerignore
+db-volume-2025-07-17-1123.tar.gz  
+wp-volume-2025-07-17-1123.tar.gz
